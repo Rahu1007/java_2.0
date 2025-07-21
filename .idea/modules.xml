@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DP/DP.iml" filepath="$PROJECT_DIR$/DP/DP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JAVA_2.0.iml" filepath="$PROJECT_DIR$/.idea/JAVA_2.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Leetcode Problem/Leetcode Problem.iml" filepath="$PROJECT_DIR$/Leetcode Problem/Leetcode Problem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPS/OOPS.iml" filepath="$PROJECT_DIR$/OOPS/OOPS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QueuesProgram/QueuesProgram.iml" filepath="$PROJECT_DIR$/QueuesProgram/QueuesProgram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Recursion/Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Leetcode Problem/Recursion_BY_PW/Recursion_BY_PW.iml" filepath="$PROJECT_DIR$/Leetcode Problem/Recursion_BY_PW/Recursion_BY_PW.iml" />
+    </modules>
+  </component>
+</project>
